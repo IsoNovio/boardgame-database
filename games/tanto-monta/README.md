@@ -1,8 +1,9 @@
 # Tanto Monta
 
-- Game: [Tanto Monta: The Rise of Ferdinand and Isabella 1470-1516](https://www.gmtgames.com/p-884-tanto-monta-the-rise-of-ferdinand-and-isabella.aspx) (2023)
+- [Tanto Monta: The Rise of Ferdinand and Isabella 1470-1516 (2023)](https://www.gmtgames.com/p-884-tanto-monta-the-rise-of-ferdinand-and-isabella.aspx)
   - designed by Carlos Diaz Narvaez
   - published by GMT Games
+  - [BoardGameGeek](https://boardgamegeek.com/boardgame/291334/tanto-monta-the-rise-of-ferdinand-and-isabella-147)
 
 ## What's Here
 
