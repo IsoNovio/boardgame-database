@@ -15,7 +15,7 @@
 
 ## Releases
 
-## Tabletop Simulator [Module](https://steamcommunity.com/sharedfiles/filedetails/?id=3332432605)
+### Tabletop Simulator [Module](https://steamcommunity.com/sharedfiles/filedetails/?id=3332432605)
 
 - workshop id: 3332432605
 - language: Simplified Chinese
